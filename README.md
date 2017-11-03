@@ -27,13 +27,13 @@ BacteriaMS uses peak lists for bacteria identification. A peak list is stored in
 
 Some example peak lists are provided in this repo.
 
-In addition, below are some accessible databases where users can download MALDI-TOF spectra of bacteria, under their terms of usage.
+In addition, below are some databases where users can access MALDI-TOF spectra of bacteria, under their terms of usage.
 
-* European Consortium of Microbial Resources Centres (EM-baRC): [http://www.embarc.eu/deliverables/EMbaRC_D.JRA2.1.4_D15.33_MALDI-TOF_DB.pdf]
+* European Consortium of Microbial Resources Centres (EM-baRC).
 
-* Robert Koch-Institute: [http://www.microbe-ms.com/]
+* Robert Koch-Institute.
 
-* The Public Health Agency of Sweden: [http://spectra.folkhalsomyndigheten.se/spectra/]
+* The Public Health Agency of Sweden.
 
 The spectra are only compatible with the analysis software Biotyper (Bruker), but can be converted to peak list files using Bruker's software.
 
