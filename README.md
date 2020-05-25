@@ -98,7 +98,7 @@ The script [bootstrapping.R] (scripts/bootstrapping.R) runs a cross-validation t
 
 
 ## Publications
-Yang, Y., Lin, Y., Chen, Z., Gong, T., Yang, P., Girault, H., Liu, B., Qiao, L. Bacterial whole cell typing by mass spectra pattern matching with bootstrapping assessment. *Anal Chem* **89**, 12556–12561 (2017).
+Yang, Y., Lin, Y., Chen, Z., Gong, T., Yang, P., Girault, H., Liu, B., Qiao, L. Bacterial whole cell typing by mass spectra pattern matching with bootstrapping assessment. *Anal Chem* **89**, 12556–12561 (2017). https://doi.org/10.1021/acs.analchem.7b03820.
 
 ## License
 BacteriaMS is distributed under a BSD license. See the LICENSE file for details.
